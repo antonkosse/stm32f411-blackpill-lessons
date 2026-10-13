@@ -1,0 +1,11 @@
+# build output
+build/
+# CubeMX temporary file
+mx.scratch
+# clangd index cache
+.cache/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
